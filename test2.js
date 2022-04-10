@@ -1,3 +1,4 @@
+//JS Code to find number of zeros in an Integer 
 const num = 123;
 var str="";
 var cnt=0;
